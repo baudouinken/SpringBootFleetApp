@@ -16,7 +16,7 @@
 	<description>Fleet Management System, project for Spring Boot</description>
 
 	<properties>
-		<java.version>11</java.version>
+		
 	</properties>
 
 	<dependencies>
