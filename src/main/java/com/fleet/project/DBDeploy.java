@@ -12,7 +12,7 @@ import com.zaxxer.hikari.HikariDataSource;
 @Configuration
 public class DBDeploy {
 
-	@Value("${spring.datasource.url}")
+	@Value("${SPRING_DATASOURCE_URL}")
 	private String dbUrl;
 
 	@Bean
